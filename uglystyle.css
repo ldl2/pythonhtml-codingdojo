@@ -1,0 +1,155 @@
+*{
+ 	margin: 0px;
+ 	padding: 0px;
+}
+img{
+	width: 40%;
+	height: auto;
+}
+.righthead{
+	display: inline-block;
+	width: 300px;
+	font-size: 9pt;
+	margin-left: 260px;
+	margin-top: 10px; 
+	vertical-align: top;
+}
+form{
+	padding: 10px;
+	background: #444444;
+	align-self: right;
+	border-radius: 5px;
+	padding-left: 100px;
+	-moz-box-shadow: 45px 45px black;
+}
+.input{
+	display: inline-block;
+	width: 100px;
+	padding: 4px 15px 4px 15px; 
+	text-align: center;
+	background-color: white;
+}
+.button{
+	display: inline-block;
+	padding: 5px 10px;
+	border:2px solid grey;
+	border-radius: 5px;
+	background-color: #245076;
+}
+#header a{
+	color: yellow;
+	display: inline-block;
+	padding-bottom: 3px;
+}
+#center a{
+	color: #76a9d6;
+}
+#wrapper{
+	
+	background: #245076;
+	width: 970px;
+	height: auto;
+	padding: 0px 40px 40px 80px;
+}
+#wrapper2{
+	background: white;
+	width: 970px;
+	height: auto;
+	padding: 10px 20px 0px 80px;
+}
+#header{
+	display: inline-block; 
+}
+#header p{
+	color: white;
+	display: inline;
+}
+#header .breaker{
+	color: black;
+}
+#linkbar{
+	background: #3f7bad;
+	color:white;
+	width: 85%
+	padding-left:30px;
+	border-radius: 5px;
+	-moz-box-shadow: 5px 5px black;
+}
+#linkbar h2{
+	display: inline-block;
+	padding: 20px;
+	align-content: center;
+	font-weight: 100;
+	font-size: 16pt;	
+}
+#sidebar{
+	display: inline-block;
+	width: 175px;
+	vertical-align: top;
+	text-align: center;
+}
+#sidebar li{
+	color:white;
+	padding: 10px 0px;
+	text-decoration: underline;
+}
+
+#maintop{
+	display: inline-block;
+	width: 750px;
+	text-align: center;
+}
+#maintop p{
+	color:white;
+	padding: 20px 0px;
+}
+#maintop h3{
+	color:yellow;
+	margin:10px;
+	font-weight: 100;
+	font-style: italic;
+}
+#maintop .lasth3{
+	color:white;
+	font-style: normal;
+}
+#center h4{
+	font-weight: 100;
+}
+#center{
+	width: 35%;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+	border-top: 4px solid #73A7D5;
+	padding: 20px 75px 20px 0px;
+	margin-left: 50px
+}
+#center ul{
+	text-align: left;
+	padding-left: 40px;
+	list-style-type: square;
+}
+.footer{
+	background: #245076;
+	width: 970px;
+	padding: 80px 40px 10px 80px;
+}
+.footer p{
+	text-align: center;
+	color: #76a9d6;
+	font-size:8pt;
+
+}
+.footer ul{
+	margin-left: 110px;
+}
+.footer li{
+	display: inline-block;
+	margin-right: 60px;
+	font-size: 12pt;
+}
+.footer a{
+	color: #76a9d6;
+	text-decoration: none;
+}
